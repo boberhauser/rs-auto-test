@@ -1,0 +1,8 @@
+[package]
+name = "rs-auto-test"
+version = "0.0.1"
+authors = ["ben"]
+
+[dependencies]
+inotify = "*"
+nix = "*"
